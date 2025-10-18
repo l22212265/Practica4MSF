@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l22212265/Practica4MSF)
 
-# Práctica: Sistema cardiovascular
+# Práctica 4: Sistema cardiovascular
 
 ## Información de la estudiante
 Yoseline Lizeth Puentes Hernandez \[22212265]; l22212265@tectijuana.edu.mx
